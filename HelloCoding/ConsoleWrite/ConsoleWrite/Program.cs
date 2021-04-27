@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleWrite
 {
@@ -10,6 +6,17 @@ namespace ConsoleWrite
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("When use writeline");
+            Console.WriteLine("......");
+            Console.Write("When use write");
+            Console.Write("?????");
+            Console.WriteLine("write --> writeline");
+
+            Console.Write("A : ");
+            Console.WriteLine(10);
+
+            Console.WriteLine("\"");
+            Console.WriteLine("\\\'\"");
         }
     }
 }
