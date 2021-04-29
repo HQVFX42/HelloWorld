@@ -7,17 +7,18 @@ namespace Operators
         static void Main(string[] args)
         {
             int coinCount = 10;
-            int a = 0;
-            int b = 0;
-            Console.WriteLine(coinCount);
-            a = coinCount / 2 - 1;
-            coinCount = coinCount - a;
-            Console.WriteLine("a = " + a);
-            Console.WriteLine(coinCount);
-            b = coinCount / 2 + 2;
-            coinCount = coinCount - b;
-            Console.WriteLine("b = " + b);
-            Console.WriteLine(coinCount);
+
+            Console.WriteLine("Add");
+            coinCount += int.Parse(Console.ReadLine());
+            Console.WriteLine("Current.." + coinCount);
+
+            Console.WriteLine("Sub1");
+            coinCount -= int.Parse(Console.ReadLine());
+            Console.WriteLine("Current.." + coinCount);
+
+            Console.WriteLine("Sub2");
+            coinCount -= int.Parse(Console.ReadLine());
+            Console.WriteLine("Current.." + coinCount);
         }
     }
 }
