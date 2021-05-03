@@ -1,7 +1,0 @@
-D:\Work\2021-1\HelloCoding\MFP\MFP\bin\Debug\MFP.exe.config
-D:\Work\2021-1\HelloCoding\MFP\MFP\bin\Debug\MFP.exe
-D:\Work\2021-1\HelloCoding\MFP\MFP\bin\Debug\MFP.pdb
-D:\Work\2021-1\HelloCoding\MFP\MFP\obj\Debug\MFP.csprojAssemblyReference.cache
-D:\Work\2021-1\HelloCoding\MFP\MFP\obj\Debug\MFP.csproj.CoreCompileInputs.cache
-D:\Work\2021-1\HelloCoding\MFP\MFP\obj\Debug\MFP.exe
-D:\Work\2021-1\HelloCoding\MFP\MFP\obj\Debug\MFP.pdb
